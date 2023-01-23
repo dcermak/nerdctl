@@ -4,6 +4,8 @@
 [[📚 **Additional documents]**](#additional-documents)
 
 # nerdctl: Docker-compatible CLI for containerd
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdcermak%2Fnerdctl.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdcermak%2Fnerdctl?ref=badge_shield)
+
 
 `nerdctl` is a Docker-compatible CLI for [contai**nerd**](https://containerd.io).
 
@@ -300,3 +302,7 @@ Implementation details:
 Misc:
 
 - [`./docs/faq.md`](./docs/faq.md): FAQs and Troubleshooting
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdcermak%2Fnerdctl.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdcermak%2Fnerdctl?ref=badge_large)
